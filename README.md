@@ -1,6 +1,6 @@
 # 🪐 ExoHabitAI: The Intelligent Exoplanet Discovery Engine
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)]https://exo-habit-ai.vercel.app/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)](https://exo-habit-ai.vercel.app/)
 [![Backend on Render](https://img.shields.io/badge/Backend%20on-Render-46E3B7?style=for-the-badge&logo=render)](https://exohabitai-1-l6rr.onrender.com/)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-3776ab?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![React 18](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)](https://react.dev)
